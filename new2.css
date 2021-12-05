@@ -1,0 +1,84 @@
+.bod img {
+  width: 100%;
+  height: 100vh;
+  margin-top: 50px;
+}
+
+.bod1 {
+  text-align: center;
+}
+
+.bod2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.bod2 img {
+  width: 155px;
+  height: 160px;
+}
+.bod2 {
+  text-align: center;
+}
+.box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.box1 img {
+  width: 100%;
+  height: 45%;
+}
+
+.box1 {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  margin-bottom: 50px;
+}
+.box1 p {
+  margin-top: 4%;
+  padding-left: 10px;
+}
+
+.above {
+  display: flex;
+  justify-content: space-around;
+}
+
+.above input {
+  width: 300px;
+  height: 35px;
+  margin-bottom: 10px;
+}
+
+.footimage img {
+  width: 100%;
+  height: 70vh;
+}
+
+.header {
+  width: 100%;
+  height: 50px;
+  color: white;
+  background-color: black;
+  position: fixed;
+}
+.head {
+  display: flex;
+}
+.head h3 {
+  margin-left: 25px;
+}
+.midbox {
+  background-color: black;
+}
+.footer {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  padding-top: 40px;
+}
+.footer i {
+  font-size: larger;
+}
